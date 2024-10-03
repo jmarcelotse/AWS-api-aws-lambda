@@ -33,3 +33,9 @@ source sales_env/bin/activate
 
 ### Utilizar a biblioteca chalice
 chalice new-project
+
+### Deixando API privada com resource policy
+
+criar a policie no API Gateway
+
+outra seria via token
